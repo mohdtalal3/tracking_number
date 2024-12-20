@@ -2,6 +2,3 @@
 Flask
 python-dotenv
 requests
-
-
-https://app.noest-dz.com/
